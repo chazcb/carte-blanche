@@ -15,14 +15,7 @@
     "Jan Nicklas <j.nicklas@me.com> (https://twitter.com/jantimon)",
     "Jyoti Puri"
   ],
-  "files": [
-    "plugin"
-  ],
   "main": "plugin/index.js",
-  "directories": {
-    "lib": "plugin",
-    "example": "examples"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pure-ui/carte-blanche"
